@@ -1,0 +1,4 @@
+for i in range(10): # Ne pas oublier les deux points!!
+x = 2 # Attention ne pas oublier une tab. en debut de ligne sinon erreur!!!
+print(x*i) # Ne pas oublier la tabulation en debut de ligne!!
+# Tapez encore une fois <Enter> si vous Ãantes en ligne de commande
